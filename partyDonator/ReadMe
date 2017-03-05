@@ -1,0 +1,7 @@
+PARTY DONATOR
+
+In order to use this package you should import selenium and look for all the TODOs for configurations. 
+
+Also, if you want to work it properly you shall have an AmazonDeveloper Account and specify email and password where needed through the code. 
+In order to connect it to an Amazon Echo Dot you should upload the .txt files to their corresponding development environment. We reccommend
+'https://www.youtube.com/watch?v=zt9WdE5kR6g' in order to understand how it works. 
