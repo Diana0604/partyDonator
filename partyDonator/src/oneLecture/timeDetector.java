@@ -132,25 +132,25 @@ public class timeDetector {
 
 		minutes[38] = "thirty nine";
 
-		minutes[39] = "fourty";
+		minutes[39] = "forty";
 
-		minutes[40] = "fourty one";
+		minutes[40] = "forty one";
 
-		minutes[41] = "fourty two";
+		minutes[41] = "forty two";
 
-		minutes[42] = "fourty three";
+		minutes[42] = "forty three";
 
-		minutes[43] = "fourty four";
+		minutes[43] = "forty four";
 
-		minutes[44] = "fourty five";
+		minutes[44] = "forty five";
 
-		minutes[45] = "fourty six";
+		minutes[45] = "forty six";
 
-		minutes[46] = "fourty seven";
+		minutes[46] = "forty seven";
 
-		minutes[47] = "fourty eight";
+		minutes[47] = "forty eight";
 
-		minutes[48] = "fourty nine";
+		minutes[48] = "forty nine";
 
 		minutes[49] = "fifty";
 
