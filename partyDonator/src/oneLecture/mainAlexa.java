@@ -109,7 +109,7 @@ public class mainAlexa {
 					
 					hour = newTime[0]; 
 					minute = newTime[1]; 
-					waitingForYou = new timing(hour,minute, currentDay, 2, 0); //TODO estaria be fer intervals costumizables pero otro dia sera 
+					waitingForYou = new timing(hour,minute, currentDay, 30, 0); //TODO estaria be fer intervals costumizables pero otro dia sera 
 				}
 			}
 
