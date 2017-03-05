@@ -35,7 +35,7 @@ public class PayPal { // Ens connectem a la web de la ONG per a donar diners mit
 			Thread.sleep(20000);
 			
 			WebElement donatingTextBox = driver.findElement(By.id("amount")); 
-			donatingTextBox.sendKeys("0,5"); 
+			donatingTextBox.sendKeys("2"); 
 			Thread.sleep(20000);
 			
 			WebElement paypalLoginButton = driver.findElement(By.name("unified_login.x")); 
